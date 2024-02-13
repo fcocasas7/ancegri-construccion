@@ -1,0 +1,25 @@
+body{
+    background-color: #F5F5F5;
+    position: relative;
+}
+.logo, h1, h3{
+    text-align: center;
+}
+.logo img{
+    width: 35%;
+    transform: translate(5%, 0);
+}
+.principal{
+    position: absolute;
+    transform: translate(0, 20%);
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    letter-spacing: 7px;
+    font-size: 2rem;
+}
+h3{
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: lighter;
+}
